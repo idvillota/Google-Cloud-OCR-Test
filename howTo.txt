@@ -1,0 +1,5 @@
+https://www.nuget.org/packages/Google.Cloud.Vision.V1/
+
+https://commandline.codeplex.com/
+
+https://cloud.google.com/genomics/downloading-credentials-for-api-access
